@@ -1,0 +1,16 @@
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\DataLoad.exe.config
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\DataLoad.exe
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\DataLoad.pdb
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\OpenTK.dll
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\OpenTK.pdb
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\OpenTK.xml
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.Properties.Resources.resources
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.csproj.CopyComplete
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.exe
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.pdb
+C:\Users\hands\source\repos\DataLoad\DataLoad\obj\Debug\DataLoad.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\GlmNet.dll
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\GlmNet.xml
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\AssimpNet.dll
+C:\Users\hands\source\repos\DataLoad\DataLoad\bin\Debug\AssimpNet.xml
